@@ -1,0 +1,34 @@
+[
+  {
+    "ord": 1,
+    "city": "lima"
+  },
+  {
+    "ord": 2,
+    "city": "sudbury"
+  },
+  {
+    "ord": 3,
+    "city": "london"
+  },
+  {
+    "ord": 4,
+    "city": "budapest"
+  },
+  {
+    "ord": 5,
+    "city": "sidney"
+  },
+  {
+    "ord": 6,
+    "city": "madrid"
+  },
+  {
+    "ord": 7,
+    "city": "toronto"
+  },
+  {
+    "ord": 8,
+    "city": "miami"
+  }
+]
